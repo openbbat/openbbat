@@ -2,20 +2,6 @@
 # Marcin "HCK" Firmuga
 **22 - Poland 🇵🇱 - solo dev - founder of [HCK_Labs](https://github.com/openbbat) - I ship real products in public.**
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <a href="https://linkedin.com/in/marcinfirmuga">
-    <img src="https://raw.githubusercontent.com/openbbat/PC_Workman_HCK/main/docs/assets/badge-linkedin.svg" height="48" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/hck_lab">
-    <img src="https://raw.githubusercontent.com/openbbat/PC_Workman_HCK/main/docs/assets/badge-x.svg" height="48" alt="Twitter/X">
-  </a>
-  <a href="https://medium.com/@MarcinFirmuga">
-    <img src="https://raw.githubusercontent.com/openbbat/PC_Workman_HCK/main/docs/assets/badge-medium.svg" height="48" alt="Medium">
-  </a>
-  <a href="https://hackernoon.com/u/huckler">
-    <img src="https://raw.githubusercontent.com/openbbat/PC_Workman_HCK/main/docs/assets/badge-hackernoon.svg" height="48" alt="HackerNoon">
-  </a>
-</div>
 
 [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGW6WS2N50V) [![Support PC Workman](https://img.shields.io/badge/Support-PC_Workman-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://buycoffee.to/hcklabs)
 
